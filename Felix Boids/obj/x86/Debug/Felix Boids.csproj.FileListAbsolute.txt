@@ -1,0 +1,28 @@
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\Content\stdBoid.xnb
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\Felix Boids.exe
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\Felix Boids.pdb
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\MonoGame.Framework.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.XInput.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\MonoGame.Framework.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.XInput.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\obj\x86\Debug\Felix Boids.csprojResolveAssemblyReference.cache
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\obj\x86\Debug\Felix Boids.exe
+E:\Onedrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\obj\x86\Debug\Felix Boids.pdb
+C:\Users\felix\OneDrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\obj\x86\Debug\Felix Boids.exe
+C:\Users\felix\OneDrive\Dokument\AI-Uppgifter\Felix Boids\Felix Boids\Felix Boids\obj\x86\Debug\Felix Boids.pdb
